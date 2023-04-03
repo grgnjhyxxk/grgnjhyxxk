@@ -1,4 +1,4 @@
-### Hi there 👋
+### <div align=center>👋 Hi there, I'm iOS Juior Developher</div>
 
 <!--
 **yoshida-tako/yoshida-tako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
