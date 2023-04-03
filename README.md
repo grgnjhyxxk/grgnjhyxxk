@@ -47,14 +47,14 @@ src="https://img.gifmagazine.net/gifmagazine/images/4358379/original.gif" width=
 src="https://img.gifmagazine.net/gifmagazine/images/4358370/original.gif" width="30" height="30"></img>
     <img 
 src="https://img.gifmagazine.net/gifmagazine/images/4358261/original.gif" width="30" height="30"></img>
-    <img 
+<!--     <img 
 src="https://img.gifmagazine.net/gifmagazine/images/4358349/original.gif" width="30" height="30"></img>
     <img 
 src="https://img.gifmagazine.net/gifmagazine/images/4358312/original.gif" width="30" height="30"></img>
     <img 
 src="https://img.gifmagazine.net/gifmagazine/images/4358326/original.gif" width="30" height="30"></img>
     <img 
-src="https://img.gifmagazine.net/gifmagazine/images/4358203/original.gif" width="30" height="30"></img>
+src="https://img.gifmagazine.net/gifmagazine/images/4358203/original.gif" width="30" height="30"></img> -->
 <!--     <img 
 src="https://img.gifmagazine.net/gifmagazine/images/4358220/original.gif" width="30" height="30"></img> -->
 </div>
@@ -125,14 +125,14 @@ src="https://img.gifmagazine.net/gifmagazine/images/4358379/original.gif" width=
 src="https://img.gifmagazine.net/gifmagazine/images/4358370/original.gif" width="30" height="30"></img>
     <img 
 src="https://img.gifmagazine.net/gifmagazine/images/4358261/original.gif" width="30" height="30"></img>
-    <img 
+<!--     <img 
 src="https://img.gifmagazine.net/gifmagazine/images/4358349/original.gif" width="30" height="30"></img>
     <img 
 src="https://img.gifmagazine.net/gifmagazine/images/4358312/original.gif" width="30" height="30"></img>
     <img 
 src="https://img.gifmagazine.net/gifmagazine/images/4358326/original.gif" width="30" height="30"></img>
     <img 
-src="https://img.gifmagazine.net/gifmagazine/images/4358203/original.gif" width="30" height="30"></img>
+src="https://img.gifmagazine.net/gifmagazine/images/4358203/original.gif" width="30" height="30"></img> -->
 <!--     <img 
 src="https://img.gifmagazine.net/gifmagazine/images/4358220/original.gif" width="30" height="30"></img> -->
 </div>
