@@ -22,7 +22,7 @@
     <img 
 src="https://img.gifmagazine.net/gifmagazine/images/4358401/original.gif" width="30" height="30"></img>
     <img 
-src="https://img.gifmagazine.net/gifmagazine/images/4358205/original.gif" width="100" height="100"></img>
+src="https://img.gifmagazine.net/gifmagazine/images/4358205/original.gif" width="200" height="200"></img>
     <img 
 src="https://img.gifmagazine.net/gifmagazine/images/4358368/original.gif" width="30" height="30"></img>
     <img 
@@ -51,7 +51,7 @@ src="https://img.gifmagazine.net/gifmagazine/images/4358348/original.gif" width=
 src="https://img.gifmagazine.net/gifmagazine/images/4358352/original.gif" width="30" height="30"></img>
     <img 
 src="https://img.gifmagazine.net/gifmagazine/images/4358268/original.gif" width="30" height="30"></img>
-    <img 
+<!--     <img 
 src="https://img.gifmagazine.net/gifmagazine/images/4358327/original.gif" width="30" height="30"></img>
     <img 
 src="https://img.gifmagazine.net/gifmagazine/images/4358371/original.gif" width="30" height="30"></img>
@@ -64,7 +64,7 @@ src="https://img.gifmagazine.net/gifmagazine/images/4358379/original.gif" width=
     <img 
 src="https://img.gifmagazine.net/gifmagazine/images/4358370/original.gif" width="30" height="30"></img>
     <img 
-src="https://img.gifmagazine.net/gifmagazine/images/4358261/original.gif" width="30" height="30"></img>
+src="https://img.gifmagazine.net/gifmagazine/images/4358261/original.gif" width="30" height="30"></img> -->
 <!--     <img 
 src="https://img.gifmagazine.net/gifmagazine/images/4358349/original.gif" width="30" height="30"></img>
     <img 
