@@ -58,7 +58,7 @@ src="https://img.gifmagazine.net/gifmagazine/images/4358203/original.gif" width=
 <!--     <img 
 src="https://img.gifmagazine.net/gifmagazine/images/4358220/original.gif" width="30" height="30"></img> -->
 </div>
-<div align=center><h1>👋 Hi there, I'm iOS Juior Developher</h1></div>
+<div align=center><h1>🧑🏻‍💻 Hi there, I'm iOS Juior Developher</h1></div>
 <br>
 <div align=center> 
   <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"> 
