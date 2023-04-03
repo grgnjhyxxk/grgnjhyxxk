@@ -76,5 +76,4 @@ src="https://img.gifmagazine.net/gifmagazine/images/4358203/original.gif" width=
 <!--     <img 
 src="https://img.gifmagazine.net/gifmagazine/images/4358220/original.gif" width="30" height="30"></img> -->
 </div>
-<h1></h1>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoshida-tako%2Fbaekteun&count_bg=%23FF4242&title_bg=%23555555&icon=swift.svg&icon_color=%23FF4242&title=hits&edge_flat=false"/></a>
