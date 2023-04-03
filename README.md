@@ -1,5 +1,5 @@
 ###### <p align="center"> iOS에 대한 모든 정보 제공 및 코드 리뷰 등 코멘트는 메일로 부탁드립니다 🔥 </p>
-<div align=center><h1>🧑🏻‍💻Hi there, I'm iOS Juior Developher</h1></div>
+<div align=center><h1>🧑🏻‍💻 Hi there, I'm iOS Juior Developher</h1></div>
 <br>
 <div align=center> 
   <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"> 
