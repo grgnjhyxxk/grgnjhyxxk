@@ -1,6 +1,6 @@
 <!-- <p align="center"><img src="https://i.pinimg.com/originals/dc/bd/31/dcbd31a54fe6915de2130c288ce0781b.gif" width="300" height="300"></img></p>
  -->
-<p align="center"><img src="https://user-images.githubusercontent.com/129068544/230491508-334554fc-4089-46b2-9a5b-0f229781aa12.png"></img></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/129068544/230493243-1c438929-2862-4d8b-9d9b-a6ebf1837cfe.gif"></img></p>
 
 <!-- ###### <p align="center"> iOS에 대한 모든 정보 제공 및 코드 리뷰 등 코멘트는 메일로 부탁드립니다 🔥 </p> -->
 
