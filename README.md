@@ -1,6 +1,6 @@
 <!-- <p align="center"><img src="https://i.pinimg.com/originals/dc/bd/31/dcbd31a54fe6915de2130c288ce0781b.gif" width="300" height="300"></img></p>
  -->
- 
+<!--  
 <div align=center> 
 
   <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"> 
@@ -18,7 +18,7 @@
 
 <br>
 <br>
-<br>
+<br> -->
 
 <p align="center"><img src="https://user-images.githubusercontent.com/129068544/230493243-1c438929-2862-4d8b-9d9b-a6ebf1837cfe.gif"></img></p>
 
