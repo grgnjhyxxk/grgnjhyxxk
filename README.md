@@ -20,7 +20,12 @@
 <br>
 <br> -->
 
-<p align="center"><img src="https://user-images.githubusercontent.com/129068544/230493243-1c438929-2862-4d8b-9d9b-a6ebf1837cfe.gif"></img></p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/129068544/230493243-1c438929-2862-4d8b-9d9b-a6ebf1837cfe.gif"></img>
+<img src="https://user-images.githubusercontent.com/129068544/230493243-1c438929-2862-4d8b-9d9b-a6ebf1837cfe.gif"></img>
+<img src="https://user-images.githubusercontent.com/129068544/230493243-1c438929-2862-4d8b-9d9b-a6ebf1837cfe.gif"></img>
+<img src="https://user-images.githubusercontent.com/129068544/230493243-1c438929-2862-4d8b-9d9b-a6ebf1837cfe.gif"></img>
+</p>
 
 <!-- ###### <p align="center"> iOS에 대한 모든 정보 제공 및 코드 리뷰 등 코멘트는 메일로 부탁드립니다 🔥 </p> -->
 
