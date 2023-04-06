@@ -1,7 +1,6 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoshida-tako%2Fbaekteun&count_bg=%23FF4242&title_bg=%23555555&icon=swift.svg&icon_color=%23FF4242&title=hits&edge_flat=false"/></a>
 
 <br>
-<br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/129068544/230493243-1c438929-2862-4d8b-9d9b-a6ebf1837cfe.gif"></img>
