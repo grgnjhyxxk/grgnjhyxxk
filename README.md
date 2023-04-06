@@ -1,28 +1,28 @@
-<div align=center><h1>🧑🏻‍💻 Hi there, I'm iOS Juior Developher</h1></div>
-
-<br>
+<hr>
 <!-- <p align="center"><img src="https://i.pinimg.com/originals/dc/bd/31/dcbd31a54fe6915de2130c288ce0781b.gif" width="300" height="300"></img></p>
  -->
 <p align="center"><img src="https://user-images.githubusercontent.com/129068544/230484699-49d0b393-2d27-40e5-be65-80bc1ea6fedd.gif"></img></p>
 
-###### <p align="center"> iOS에 대한 모든 정보 제공 및 코드 리뷰 등 코멘트는 메일로 부탁드립니다 🔥 </p>
+<!-- ###### <p align="center"> iOS에 대한 모든 정보 제공 및 코드 리뷰 등 코멘트는 메일로 부탁드립니다 🔥 </p> -->
 
-<h1></h1>
+<!-- <h1></h1> -->
 
-<br>
-<div align=center> 
+<!-- <br> -->
+<hr>
+<div align=left> 
   <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"> 
   <img src="https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">
-  <br>
+
   <img src="https://img.shields.io/badge/VSCode-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white"> 
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-   <br>
+
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
+<br>
 <div>
     <img src="https://camo.githubusercontent.com/a6af43479d42a1a2fb5c9b40ee7c8cb4166fe525162357d400ee99afe3eac2fa/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966" width="28" height="28"></img>
     <img src="https://camo.githubusercontent.com/9ed64b042a76b8a97016e877cbaee0d6df224a148034afef658d841cf0cd1791/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="28" height="28"></img>
