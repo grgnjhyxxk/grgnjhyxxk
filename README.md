@@ -1,5 +1,7 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoshida-tako%2Fbaekteun&count_bg=%23FF4242&title_bg=%23555555&icon=swift.svg&icon_color=%23FF4242&title=hits&edge_flat=false"/></a>
+<!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoshida-tako%2Fbaekteun&count_bg=%23FF4242&title_bg=%23555555&icon=swift.svg&icon_color=%23FF4242&title=hits&edge_flat=false"/></a> -->
 
+<br>
+<br>
 <br>
 
 <p align="center">
@@ -10,7 +12,7 @@
 <br>
 <br>
 
-<div align=left> 
+<!-- <div align=left> 
   <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"> 
   <img src="https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">
   <img src="https://img.shields.io/badge/VSCode-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white"> 
@@ -20,7 +22,7 @@
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</div>
+</div> -->
 
 <!-- 
 <br>
