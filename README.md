@@ -36,3 +36,8 @@ src="https://img.gifmagazine.net/gifmagazine/images/4358401/original.gif" width=
     <img 
 src="https://img.gifmagazine.net/gifmagazine/images/4358368/original.gif" width="28" height="28"></img>
 </div> -->
+
+<div align="center"; style="display: flex; flex-direction: column;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=grgnjhyxxk&show_icons=true&theme=swift"/>
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grgnjhyxxk&theme=swift&layout=compact"/><br>
+</div>
